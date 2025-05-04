@@ -8,7 +8,7 @@ This repository contains practical labs and exercises in Natural Language Proces
 - `paper_notes.md`: Summary and key takeaways from the "Efficient Estimation of Word Representations in Vector Space" (Word2Vec) paper.
 - `requirements.txt`: List of required packages to run the labs smoothly.
 
-## 📌 Contents
+## Contents
 
 ### NLP Labs
 - Tokenization and Text Preprocessing
@@ -28,9 +28,3 @@ A concise breakdown of the "Efficient Estimation of Word Representations in Vect
 - **Key Contributions**: Introduction of Word2Vec model for word embedding, with improved computational efficiency and performance.
 - **Observations and Limitations**: Discusses advantages of Word2Vec in terms of efficiency and quality of embeddings, while noting some challenges in the optimization process.
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
