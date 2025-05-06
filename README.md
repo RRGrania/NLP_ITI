@@ -1,5 +1,5 @@
 # NLP Labs & Research Notes
-
+Tasks of NLP Course of ITI
 This repository contains practical labs and exercises in Natural Language Processing (NLP) alongside summarized notes and key insights from the "Efficient Estimation of Word Representations in Vector Space" (Word2Vec) paper.
 
 ##  Repository Structure
