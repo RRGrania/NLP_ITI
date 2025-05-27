@@ -19,6 +19,6 @@ This repository contains practical labs and exercises in Natural Language Proces
 - Dependency Parsing
 - Custom NER with spaCy
 - Transformer
-- ف
 
+  
 ### 📝 Research Paper Notes
